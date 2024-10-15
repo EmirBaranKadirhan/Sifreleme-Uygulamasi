@@ -13,21 +13,17 @@ Kullanıcı dostu bir arayüzle veri şifreleme işlemleri yapabileceğiniz bir 
 
 
 
-## Uygulama Görüntüsü
+
 ![Uygulama Ici Resim 1](./images/UygulamaIciResim1Sifreleme.PNG)
 
 
-## Uygulama Görüntüsü
 ![Uygulama Ici Resim 2](./images/UygulamaIciResim2Sifreleme.PNG)
 
 
-## Uygulama Görüntüsü
 ![Uygulama Ici Resim 3](./images/UygulamaIciResim3Sifreleme.PNG)
 
 
-## Uygulama Görüntüsü
 ![Uygulama Ici Resim 4](./images/UygulamaIciResim4Sifreleme.PNG)
 
 
-## Uygulama Görüntüsü
 ![Uygulama Ici Resim 5](./images/UygulamaIciResim5Sifreleme.PNG)
